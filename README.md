@@ -9,10 +9,21 @@
   <a href="https://t.me/ТВОЙ_TELEGRAM"><img src="https://img.shields.io/badge/Telegram-@dıkend1-blue?style=for-the-badge&logo=telegram"></a>
 </p>
 
-## About Me
-- 🌱 **Currently Learning:** FastAPI, Django, JavaFX
-- 💼 **Interests:** APIs, backend, cloud technologies, UI/UX with JavaFX
-- 🎯 **Goal:** Build scalable backend solutions using Python and Java
+### About Me
+<table style="width:100%; border-collapse:collapse;">
+  <tr>
+    <td style="vertical-align:top;">
+      <ul style="list-style-type:none; padding-left:0;">
+        <li>🌱 <strong>Currently Learning:</strong> FastAPI, Django, JavaFX </li>
+        <li>💼 <strong>Interests:</strong> Building APIs, working with backend frameworks, and exploring Cloud Technologies.</li>
+        <li>🎯 <strong>Goal:</strong> Leveraging Python and its ecosystems to deliver robust, scalable backend solutions.</li>
+      </ul>
+    </td>
+    <td align="right" style="padding-left:20px; vertical-align:top;">
+      <img width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHUycW53eGYxeDF1YmNlbmYzNTRjc2UycWxxNDhmc2dyeXA1aTMxNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zwqgSLl71l9hak7YLW/giphy.gif" alt="Coding GIF" style="border-radius:10px;"/>
+    </td>
+  </tr>
+</table>
 
 
 ## 💎 My Skills  
@@ -26,5 +37,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
 
 </p>
-## 📊 My Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dikend1&show_icons=true&theme=dark)
+## My Stats
+<div>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dikend1&theme=2077" alt="Stats Card" width="300"/>
+</div>
