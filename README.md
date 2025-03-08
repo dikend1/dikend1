@@ -1,16 +1,30 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Dıas</h1>
+<h3 align="center">Backend Developer & Student</h3>
 
-<!--
-**dikend1/dikend1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <i>"Consistency is key"</i>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://t.me/ТВОЙ_TELEGRAM"><img src="https://img.shields.io/badge/Telegram-@dıkend1-blue?style=for-the-badge&logo=telegram"></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+- 🌱 **Currently Learning:** FastAPI, Django, JavaFX
+- 💼 **Interests:** APIs, backend, cloud technologies, UI/UX with JavaFX
+- 🎯 **Goal:** Build scalable backend solutions using Python and Java
+
+
+## 💎 My Skills  
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
+
+</p>
+## 📊 My Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dikend1&show_icons=true&theme=dark)
