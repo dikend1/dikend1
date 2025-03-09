@@ -20,7 +20,7 @@
       </ul>
     </td>
     <td align="right" style="padding-left:20px; vertical-align:top;">
-      <img width="400" src="https:https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmJnNmI2anpzOW03ejFrZmNld3Jic2t3eW81NHBqYzc2ZmV2eDZmayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ghCX1B38YFXAwttIkg/giphy.gif" alt="Coding GIF" style="border-radius:10px;"/>
+      <img width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmJnNmI2anpzOW03ejFrZmNld3Jic2t3eW81NHBqYzc2ZmV2eDZmayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ghCX1B38YFXAwttIkg/giphy.gif" alt="Coding GIF" style="border-radius:10px;"/>
     </td>
   </tr>
 </table>
