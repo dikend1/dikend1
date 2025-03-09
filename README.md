@@ -12,13 +12,13 @@
 ### About Me
 <table style="width:100%; border-collapse:collapse;">
   <tr>
-    <td style="vertical-align:top;">
-      <ul style="list-style-type:none; padding-left:0;font-size: 20px;">
-        <li>🌱 <strong>Currently Learning:</strong> FastAPI, Django, JavaFX </li>
-        <li>💼 <strong>Interests:</strong> Building APIs, working with backend frameworks, and exploring Cloud Technologies.</li>
-        <li>🎯 <strong>Goal:</strong> Leveraging Python and its ecosystems to deliver robust, scalable backend solutions.</li>
-      </ul>
-    </td>
+   <td style="vertical-align:top;">
+  <ul style="list-style-type:none; padding-left:0; font-size: 22px; line-height: 1.6;">
+    <li>🌱 <strong>Currently Learning:</strong> <span style="font-size: 100px;">FastAPI, JavaFX</span></li>
+    <li>💼 <strong>Interests:</strong> <span style="font-size: 24px;">Designing scalable backend architectures, optimizing APIs for performance, and integrating AI-driven solutions to enhance web applications. Focused on clean code, security, and cloud technologies.</span></li>
+    <li>🎯 <strong>Goal:</strong> <span style="font-size: 24px;">Becoming a full-stack developer with deep expertise in backend technologies and modern frameworks.</span></li>
+  </ul>
+</td>
     <td align="right" style="padding-left:20px; vertical-align:top;">
       <img width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmJnNmI2anpzOW03ejFrZmNld3Jic2t3eW81NHBqYzc2ZmV2eDZmayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ghCX1B38YFXAwttIkg/giphy.gif" alt="Coding GIF" style="border-radius:10px;"/>
     </td>
