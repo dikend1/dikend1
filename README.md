@@ -6,7 +6,9 @@
 </p>
 
 <p align="center">
-  <a href="https://t.me/ТВОЙ_TELEGRAM"><img src="https://img.shields.io/badge/Telegram-@dıkend1-blue?style=for-the-badge&logo=telegram"></a>
+  <a href="https://drive.google.com/file/d/1KPTKXv1Y8SWCM75Jnbi-vLxcTagTus45/view?usp=drive_link">
+        <img src="https://img.shields.io/badge/Resume-View%20CV-2ea44f?style=for-the-badge&logo=googledrive&logoColor=white" alt="Dias Maksatov Resume"/>
+    </a>
 </p>
 
 ### About Me
