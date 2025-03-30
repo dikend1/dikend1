@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1KPTKXv1Y8SWCM75Jnbi-vLxcTagTus45/view?usp=drive_link">
+  <a href="https://drive.google.com/open?id=1xZlC0vVCk1WFTDFFZ7d4zo1a2azBIgh1&usp=drive_copy">
         <img src="https://img.shields.io/badge/Resume-View%20CV-2ea44f?style=for-the-badge&logo=googledrive&logoColor=white" alt="Dias Maksatov Resume"/>
     </a>
 </p>
