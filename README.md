@@ -16,7 +16,7 @@
   <tr>
    <td style="vertical-align:top;">
   <ul style="list-style-type:none; padding-left:0; font-size: 22px; line-height: 1.6;">
-    <li>🌱 <strong>Currently Learning:</strong> <span style="font-size: 100px;">FastAPI, JavaFX</span></li>
+    <li>🌱 <strong>Currently Learning:</strong> <span style="font-size: 100px;">FastAPI, JavaFX, Django</span></li>
     <li>💼 <strong>Interests:</strong> <span style="font-size: 24px;">Designing scalable backend architectures, optimizing APIs for performance, and integrating AI-driven solutions to enhance web applications. Focused on clean code, security, and cloud technologies.</span></li>
     <li>🎯 <strong>Goal:</strong> <span style="font-size: 24px;">Becoming a full-stack developer with deep expertise in backend technologies and modern frameworks.</span></li>
   </ul>
