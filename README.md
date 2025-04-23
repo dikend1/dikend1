@@ -1,14 +1,8 @@
 <h1 align="center">Hi 👋, I'm Dıas</h1>
-<h3 align="center">Backend Developer & Student</h3>
+<h3 align="center">Backend Developer & Student at SDU</h3>
 
 <p align="center">
   <i>"Consistency is key"</i>
-</p>
-
-<p align="center">
-  <a href="https://drive.google.com/file/d/1JddE3tq2FaRK1YjR-R6mof-k965iz6Ha/view?usp=drivesdk">
-        <img src="https://img.shields.io/badge/Resume-View%20CV-2ea44f?style=for-the-badge&logo=googledrive&logoColor=white" alt="Dias Maksatov Resume"/>
-    </a>
 </p>
 
 ### About Me
@@ -16,7 +10,7 @@
   <tr>
    <td style="vertical-align:top;">
   <ul style="list-style-type:none; padding-left:0; font-size: 22px; line-height: 1.6;">
-    <li>🌱 <strong>Currently Learning:</strong> <span style="font-size: 100px;">FastAPI, JavaFX, Django</span></li>
+    <li>🌱 <strong>Currently Learning:</strong> <span style="font-size: 100px;">Django, FastAPI, JavaFX</span></li>
     <li>💼 <strong>Interests:</strong> <span style="font-size: 24px;">Designing scalable backend architectures, optimizing APIs for performance, and integrating AI-driven solutions to enhance web applications. Focused on clean code, security, and cloud technologies.</span></li>
     <li>🎯 <strong>Goal:</strong> <span style="font-size: 24px;">Becoming a full-stack developer with deep expertise in backend technologies and modern frameworks.</span></li>
   </ul>
@@ -27,12 +21,25 @@
   </tr>
 </table>
 
+## 🌐 Socials:
+[![Telegram](https://img.shields.io/badge/Telegram-%23007bff.svg?logo=telegram&logoColor=white)](https://t.me/dikend1) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/deesa.wp) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/maxatovdias) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](maxatovdias@gmail.com) 
 
-## 💎 My Skills  
+
+### 💎 Technical Skills
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,html,js,css,java,postgres,git,JavaFX" alt="Tech Stack" />
+  <h4>Languages & Frameworks</h4>
+  <img src="https://skillicons.dev/icons?i=sf,python,django,fastapi,java,SQL" alt="Languages & Frameworks" />
+
+  
+  <h4>Databases & Tools</h4>
+  <img src="https://skillicons.dev/icons?i=postgres,git,aws,docker" alt="Databases & Tools" />
+
+  
+  <h4>Web Technologies</h4>
+  <img src="https://skillicons.dev/icons?i=html,css,js" alt="Web Technologies" />
 </div>
-## My Stats
-<div>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dikend1&theme=2077" alt="Stats Card" width="300"/>
-</div>
+
+## 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=dikend1&show_icons=true&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dikend1)
+
