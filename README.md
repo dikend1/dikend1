@@ -2,8 +2,10 @@
 <h3 align="center">Backend Developer & Student at SDU</h3>
 
 <p align="center">
-  <i>"Consistency is key"</i>
-</p>
+   <a href="https://drive.google.com/file/d/1JddE3tq2FaRK1YjR-R6mof-k965iz6Ha/view?usp=drivesdk">
+         <img src="https://img.shields.io/badge/Resume-View%20CV-2ea44f?style=for-the-badge&logo=googledrive&logoColor=white" alt="Dias Maksatov Resume"/>
+     </a>
+ </p>
 
 ### About Me
 <table style="width:100%; border-collapse:collapse;">
